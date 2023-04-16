@@ -1,0 +1,16 @@
+#egg-container {
+  background-image: url('https://media.istockphoto.com/id/1371592403/photo/easter-eggs-in-basket-and-easter-bunny-ears-behind-a-basket-on-empty-wooden-table.jpg?b=1&s=170667a&w=0&k=20&c=4vrgzzwiJQZ7IL_xZZfq4vX7_UiRFG3RlCBr1bl2iyU=');
+  height: 1000px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+/* set the background image for the page 
+set the height of the image
+make it so it does not repeat
+center the image
+make it so it covers the whole page */
+
+
+
